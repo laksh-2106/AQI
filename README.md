@@ -8,7 +8,7 @@ It helps users understand whether the air is safe to breathe by showing **live A
 ## 📸 Demo
 ![AQI Screenshot](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fbd117fa-4c36-42f3-86bc-59254a518c86" />
 )  
-*(Replace with your project screenshot)*
+
 
 ---
 
